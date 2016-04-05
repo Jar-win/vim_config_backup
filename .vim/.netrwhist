@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/cygdrive/c/Users/Azazel/Desktop/python_basic_server'
+let g:netrw_dirhist_2='/home/Azazel/.vim/bundle/jedi-vim'
+let g:netrw_dirhist_3='/home/Azazel/.vim/colors'
